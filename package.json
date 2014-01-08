@@ -1,0 +1,28 @@
+{
+  "name": "gmail-otr",
+  "version": "0.0.1",
+  "description": "Off-the-Record Messaging userscript for gmail",
+  "homepage": "https://github.com/bodyloss/gmail-otr",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bodyloss/gmail-otr.git"
+  },
+  "scripts": {
+    "build": "grunt"
+  },
+  "keywords": [
+    "otr",
+    "off-the-record",
+    "off the record",
+    "gmail",
+    "secure chat"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.11",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7"
+  },
+  "author": "Joey Ciechanowicz <bodyloss@gmail.com>",
+  "license": "MIT"
+}
