@@ -8,7 +8,9 @@ build
 
 ```
 git clone --recursive git://github.com/bodyloss/gmail-otr
+npm install
 cd otr
+npm install
 make build
 cd ..
 npm run build
